@@ -1,6 +1,10 @@
-<span>
-  
-  ![cameronpcampbell's Stats](https://github-readme-stats.vercel.app/api?username=cameronpcampbell&theme=dark&show_icons=true&hide_border=true&count_private=true)
-  ![cameronpcampbell's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cameronpcampbell&theme=dark&show_icons=true&hide_border=true&layout=compact)
-  
-</span>
+# 👇 My Projects
+
+⭐ [Astrum](https://github.com/astrum-chat/astrum) | Local & private LLM chat app.
+🌐 [Quaero](https://github.com/quaero-search/quaero) | Asynchronous search engine aggregation library.
+🗄️ [Notitia](https://github.com/astrum-chat/notitia) | Reactive ORM for locally hosted sqlite databases.
+🪄 [AnyML](https://github.com/astrum-chat/notitia) | Unified interface for interacting with machine learning models.
+🧩 [Tesserae](https://github.com/astrum-chat/gpui_tesserae) | Modern component system for GPUI.
+🎥 [GPUI Transitions](https://github.com/astrum-chat/gpui_transitions) | A simple transitions library for GPUI.
+💠 [GPUI Primitives](https://github.com/astrum-chat/gpui_tesserae/tree/main/crates/gpui_primitives) | Commonly used headless primitives for GPUI.
+꩜ [GPUI Squircle](https://github.com/astrum-chat/gpui_squircle) | Easily create figma-style squircles in GPUI.
